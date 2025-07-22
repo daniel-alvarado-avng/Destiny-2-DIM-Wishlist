@@ -1,5 +1,5 @@
 //This file is used for Destiny Item Manager to identify good and god rolls for PVE and PVP.
-//File will be divided by weapon type, followed by season.
+//File will be divided alphabetically by weapon type, than season listed in alphabetic order.
 
 //Auto Rifles
 
