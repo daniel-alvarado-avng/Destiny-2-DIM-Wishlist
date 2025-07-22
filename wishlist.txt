@@ -1,1 +1,36 @@
+//This file is used for Destiny Item Manager to identify good and dog rolls for PVE and PVP.
+//File will be divided by weapon type, followed by season.
 
+//Auto Rifles
+
+//Combat Bows
+
+//Fusion Rifles
+
+//Glaives
+
+//Grenade Launchers
+
+//Hand Cannons
+
+//Linear Fusion Rifles
+
+//Machine Guns
+
+//Pulse Rifles
+
+//Rocket Launchers
+
+//Scout Rifles
+
+//Shotguns
+
+//Sidearms
+
+//Sniper Rifles
+
+//Submachine Guns
+
+//Swords
+
+//Trace Rifles
