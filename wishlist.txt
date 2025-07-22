@@ -1,4 +1,4 @@
-//This file is used for Destiny Item Manager to identify good and dog rolls for PVE and PVP.
+//This file is used for Destiny Item Manager to identify good and god rolls for PVE and PVP.
 //File will be divided by weapon type, followed by season.
 
 //Auto Rifles
